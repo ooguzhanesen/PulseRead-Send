@@ -1,1 +1,1 @@
-bu bir test dosyasidir.
+PULSE READ AND SEND BOARD
